@@ -1,0 +1,5 @@
+# worked on python 3.8.7
+pandas==1.2.0
+pywhatkit==3.9
+PyAutoGUI==0.9.52
+regex==2020.11.13

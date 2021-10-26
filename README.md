@@ -4,6 +4,7 @@ This code can help you to send automatic messages in Whatsapp.
 Provide a .csv or .xls* file containing phone numbers in a column to send an
 equal message to all of them.
 
+<img src="Example phones.PNG">
 Make sure that the area/state code is informed in your
 numbers, otherwise the message will not be delivered.
 
